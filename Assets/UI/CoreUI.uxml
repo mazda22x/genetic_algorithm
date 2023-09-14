@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Button text="Провести популяцию" parse-escape-sequences="true" display-tooltip-when-elided="true" enable-rich-text="true" name="populateButton" style="height: 9px; width: 69px; font-size: 6px;" />
+</ui:UXML>
